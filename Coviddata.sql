@@ -1,3 +1,5 @@
+Covid-19 Dataset
+
 -- View the entire covid deaths data and order it by location and date.
 
 select *
